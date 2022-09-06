@@ -1,0 +1,289 @@
+#navbar {
+    background-color: #F1A536;
+    border-bottom: 3px white solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#mealIdeas {
+    padding-right: 100px;
+}
+
+.link {
+    padding-left: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    
+    max-height: 800px;
+    width: cover;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+#text {
+    background-color: white;
+    font-size: xx-large;
+    width:fit-content;
+    margin: 0;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Nunito', sans-serif;
+    padding: 10px;
+}
+
+.segment1{
+    background-image: url(../images/hero-image.jpg);
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    background-attachment: fixed;
+}
+.recipeSeg1{
+    background-image: url(../images/hamburger.jpeg);
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    background-attachment: fixed;
+}
+#segment2 {
+    padding-top: 10px;
+}
+
+#subtitle1 {
+    font-family: 'Nunito', sans-serif;
+    padding-left: 50px;
+}
+
+#paragraph1 {
+    font-family: 'Nunito', sans-serif;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.imageContainer {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 50px;
+    padding-left: 50px;
+    flex-wrap: wrap;
+}
+
+#breakfastIdeas {
+    height: 200px;
+    width: 300px;
+    display: flex;
+}
+
+#veganIdeas {
+    height: 200px;
+    width: 300px;
+}
+
+#steak {
+    height: 200px;
+    width: 300px;
+}
+
+.wordContainer {
+    padding-left: 100px;
+    padding-right: 100px;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#segment3 {
+    background-color: #DADFEA;
+}
+
+#subtitle2  {
+    font-family: 'Nunito', sans-serif;
+    padding-left: 50px;
+    padding-top: 25px;
+}
+
+#paragraph2 {
+    font-family: 'Nunito', sans-serif;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.seg3img {
+    height: 200px;
+    width: 250px;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+#seg3images {
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 20px;
+}
+
+.imgtext {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    margin: 0;
+    padding: 10px 0px 10px 0px;
+    margin-bottom: 30px;
+}
+
+#subtitle3 {
+    padding: 0px 50px 0px 50px;
+    font-family: 'Nunito', sans-serif;
+}
+
+#paragraph3 {
+    padding: 0px 50px 0px 50px;
+    font-family: 'Nunito', sans-serif;
+}
+
+#seg4images {
+    padding: 30px 50px 0px 50px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.seg4img {
+    border: 5px solid #DADFEA;
+    height: 200px;
+    width: 250px;
+}
+
+#seg4images div p {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    background-color: #F1A536;
+    font-family: 'Nunito', sans-serif;
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#footLinks {
+    display: flex;
+    align-items: center;
+}
+
+.footLink {
+    padding: 0px 10px 0px 10px;
+    text-decoration: none;
+    color: black;
+}
+
+#recipeSeg2 {
+    background-color: #DADFEA;
+}
+
+#time {
+    font-family: 'Nunito', sans-serif;
+    padding: 30px 0px 0px 50px;
+    margin: 0;
+}
+
+#time2 {
+    font-family: 'Nunito', sans-serif;
+    padding: 30px 0px 30px 50px;
+    margin: 0;
+}
+
+.words {
+    padding-right: 280px;
+}
+
+#recipeSeg3Subtitle {
+    font-family: 'Nunito', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+#stars {
+    display: flex;
+    justify-content: center;
+    color: #A63223;
+}
+
+#review {
+    color: black;
+    font-family: 'Nunito', sans-serif;
+    padding-left: 10px;
+}
+
+#saveRecipe {
+    font-family: 'Nunito', sans-serif;
+    color: white;
+    background-color: #A63223;
+    padding: 5px;
+    border-radius: 30px;
+}
+
+#buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fa-solid.fa-print {
+    padding: 5px;
+    margin-left: 10px;
+    border: 3px black solid;
+    border-radius: 20px;
+}
+
+#quote {
+    padding: 20px;
+    font-family: 'Nunito', sans-serif;
+    background-color: #DADFEA;
+    margin: 0px 30px 0px 30px;
+    font-size: x-large;
+    color: #575656;
+}
+
+#recipeSeg4 {
+    font-family: 'Nunito', sans-serif;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+#list1 {
+    font-size: x-large;
+}
+
+#list3 {
+    display: inline;
+    font-size: x-large;
+    padding-right: 30px;
+}
+
+.listElements {
+    font-size: medium;
+}
+
+#list1N3 {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
